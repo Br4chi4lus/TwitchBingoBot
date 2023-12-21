@@ -1,0 +1,31 @@
+{
+  "bingos": [
+    "tutaj",
+    "wstaw",
+    "różne",
+    "frazy",
+    "do",
+    "bingo",
+    "najlepiej",
+    "jakies",
+    "w",
+    "miare",
+    "krotkie"
+  ],
+  "users": [
+    "brachialus124"
+  ],
+  "usersBingos": [
+    [
+      9,
+      7,
+      8,
+      2,
+      3
+    ]
+  ],
+  "selectedBingos": [],
+  "userFlags": {
+    "brachialus124": 0
+  }
+}

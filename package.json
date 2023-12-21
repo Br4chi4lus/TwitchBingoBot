@@ -1,0 +1,17 @@
+{
+  "name": "bingobot",
+  "version": "0.0.3",
+  "description": "Bot do prostego bingo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Br4chi4lus ",
+  "license": "MIT",
+  "dependencies": {
+    "@kararty/dank-twitch-irc": "^6.0.0",
+    "auto-reload": "^0.1.0",
+    "chalk": "^4.1.2",
+    "edit-json-file": "^1.7.0"
+  }
+}

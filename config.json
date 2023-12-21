@@ -1,0 +1,19 @@
+{
+  "username": "username bota",
+  "oauth": "acces token",
+  "channels": [
+    "nazwa kanału"
+  ],
+  "prefix": "!",
+  "connect": "bingo bot connected",
+  "bingoModeratorNames": [
+    "moderatorzy bota",
+    "nastepny mod",
+    "itd."
+  ],
+  "bingosPerUser": 5,
+  "userCooldown": 5,
+  "globalCooldown": 1,
+  "openFlag": 1
+
+}
